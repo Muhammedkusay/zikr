@@ -24,11 +24,11 @@
 /* header */
 .header {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background: linear-gradient(90deg, var(--main-clr), rgb(8, 145, 219));
 }
 
 .header .container {
     color: #fff;
-    background: linear-gradient(90deg, var(--main-clr), rgb(8, 145, 219));
 }
 
 .header .container h2 {
